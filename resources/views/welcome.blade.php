@@ -1,0 +1,3 @@
+<h1>Hello Laravel<h1>
+
+<h1>Activity 1<h1>
